@@ -1,3 +1,9 @@
-# Notas
+# useFetch
 
-Este repo contiene hooks empleados en varias aplicaciones
+
+
+Ejemplo 
+
+```
+    const {data: null, loading: true, error: null} = useFetch = (url)
+```

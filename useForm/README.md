@@ -1,3 +1,8 @@
-# Notas
+# useForm
 
-Este repo contiene hooks empleados en varias aplicaciones
+Ejemplo
+
+```
+    [fields, handledInputChange, resetFields] = useForm = (initialState)
+
+```
